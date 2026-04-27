@@ -50,5 +50,3 @@ To simulate a real-world **Smart Hospital System** that improves safety, reduces
 ## 🖼️ Project Preview
 
 ![Smart Hospital](Hospital.png)
-📄 a PDF report for submission
-🎥 or a video script for presentation (very strong for grading)
